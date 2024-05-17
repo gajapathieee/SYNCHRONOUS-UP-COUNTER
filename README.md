@@ -38,14 +38,11 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 5.Repeat steps 2-4 for each bit you want to input and shift.
 
-
-
 **PROGRAM**
-
-/* 
-Developed by:N.NAVYA SREE
-RegisterNumber:212223040138
-*/
+```
+Developed by: gajapathi.j
+RegisterNumber: 212222053002
+```
 ```
 module ex11(out,clk,rstn);
 input clk,rstn;
@@ -62,17 +59,18 @@ endmodule
 
 **RTL LOGIC UP COUNTER**
 
-![image](https://github.com/23004513/SYNCHRONOUS-UP-COUNTER/assets/138973069/b3c2ccf8-964d-4e0c-87e8-e8d6f27c98d9)
+![exp 11 rtl logic](https://github.com/23003250/SYNCHRONOUS-UP-COUNTER/assets/139331462/eb8260cc-ab82-495d-8830-b98c03fdfb08)
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![image](https://github.com/23004513/SYNCHRONOUS-UP-COUNTER/assets/138973069/9795a391-bbf6-414c-9730-9f4800b9657a)
-
+![exp 11 timing diagram](https://github.com/23003250/SYNCHRONOUS-UP-COUNTER/assets/139331462/d9a55acf-a2fc-4cff-b0d8-9cde2a0d2c77)
 
 **TRUTH TABLE**
 
-![image](https://github.com/23004513/SYNCHRONOUS-UP-COUNTER/assets/138973069/4e9833c6-9227-41ff-a5cd-b199a3413e77)
+![exp 11 truth table](https://github.com/23003250/SYNCHRONOUS-UP-COUNTER/assets/139331462/08a23200-9705-45a7-bd51-932c8ca3694b)
 
 **RESULTS**
 
-Hence a 4 bit synchronous up counter is implemented correctly
+Hence a 4 bit synchronous up counter is implemented correctly.
+
+
